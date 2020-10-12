@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Compares
+comment0.text=\r\n\ Non-abstract\ comparator\r\n\r\n\ @author\ Henry\ Grote\r\n\ @version\ 10/06/2020\r\n
+comment1.params=x\ y
+comment1.target=int\ compare(java.lang.Comparable,\ java.lang.Comparable)
+comment1.text=\r\n\ compares\ two\ objects\r\n\ \r\n\ @param\ \ x\ \ an\ object\r\n\ @param\ \ y\ \ an\ object\r\n\ @return\ \ \ \ x\ compared\ to\ y\r\n
+numComments=2

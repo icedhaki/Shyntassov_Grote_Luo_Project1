@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=QuickSortMedian
+comment0.text=\r\n\ Sorts\ an\ array\ via\ quicksort,\ using\ the\ first\ element\ as\ the\ pivot.\r\n\r\n\ @author\ Henry\ Grote\r\n\ @version\ 09/29/2020\r\n
+comment1.params=a\ fst\ lst
+comment1.target=int\ pivot(int[],\ int,\ int)
+comment1.text=\r\n\ Returns\ the\ desired\ pivot\ location\ in\ the\ array\r\n\ \r\n\ @param\ \ a\ \ the\ array\ to\ choose\ the\ pivot\ location\ in\r\n\ @param\ \ fst\ \ the\ beginning\ of\ valid\ indicies\r\n\ @param\ \ lst\ \ the\ end\ of\ valid\ indicies\r\n\ \r\n\ @return\ \ either\ first;\ median\ of\ first,\ middle\ and\ last;\ or\ a\ random\ element,\ depending\ on\ inheritance\r\n
+comment2.params=a\ i1\ i2
+comment2.target=void\ swap(int[],\ int,\ int)
+comment2.text=\r\n\ Swaps\ two\ elements\ in\ the\ int\ array.\r\n\ \r\n\ @param\ \ a\ \ the\ array\ to\ choose\ the\ pivot\ location\ in\r\n\ @param\ \ i1\ \ index\ of\ the\ first\ element\r\n\ @param\ \ i2\ \ index\ of\ the\ second\ element\r\n\ \r\n\ @return\ void\r\n
+comment3.params=a\ i1\ i2
+comment3.target=void\ swap(java.lang.Comparable[],\ int,\ int)
+comment3.text=\r\n\ Swaps\ two\ elements\ in\ the\ generic\ array.\r\n\ \r\n\ @param\ \ a\ \ the\ array\ to\ choose\ the\ pivot\ location\ in\r\n\ @param\ \ i1\ \ index\ of\ the\ first\ element\r\n\ @param\ \ i2\ \ index\ of\ the\ second\ element\r\n\ \r\n\ @return\ void\r\n
+comment4.params=a\ fst\ lst
+comment4.target=java.lang.Comparable\ pivot(java.lang.Comparable[],\ int,\ int)
+comment4.text=\r\n\ Returns\ the\ desired\ pivot\ location\ in\ the\ array\r\n\ \r\n\ @param\ \ a\ \ the\ array\ to\ choose\ the\ pivot\ location\ in\r\n\ @param\ \ fst\ \ the\ beginning\ of\ valid\ indicies\r\n\ @param\ \ lst\ \ the\ end\ of\ valid\ indicies\r\n\ \r\n\ @return\ \ either\ first;\ median\ of\ first,\ middle\ and\ last;\ or\ a\ random\ element,\ depending\ on\ inheritance\r\n
+comment5.params=a\ fst\ lst\ c
+comment5.target=java.lang.Comparable\ pivot(java.lang.Comparable[],\ int,\ int,\ java.util.Comparator)
+comment5.text=\r\n\ Returns\ the\ desired\ pivot\ location\ in\ the\ array\r\n\ \r\n\ @param\ \ a\ \ the\ array\ to\ choose\ the\ pivot\ location\ in\r\n\ @param\ \ fst\ \ the\ beginning\ of\ valid\ indicies\r\n\ @param\ \ lst\ \ the\ end\ of\ valid\ indicies\r\n\ \r\n\ @return\ \ either\ first;\ median\ of\ first,\ middle\ and\ last;\ or\ a\ random\ element,\ depending\ on\ inheritance\r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=QuickSortRandom
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ QuickSortRandom\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ fst\ lst
+comment1.target=int\ pivot(int[],\ int,\ int)
+comment1.text=\r\n\ Returns\ the\ desired\ pivot\ location\ in\ the\ array\r\n\ \r\n\ @param\ \ a\ \ the\ array\ to\ choose\ the\ pivot\ location\ in\r\n\ @param\ \ fst\ \ the\ beginning\ of\ valid\ indicies\r\n\ @param\ \ lst\ \ the\ end\ of\ valid\ indicies\r\n\ \r\n\ @return\ \ either\ first;\ median\ of\ first,\ middle\ and\ last;\ or\ a\ random\ element,\ depending\ on\ inheritance\r\n
+comment2.params=a\ fst\ lst
+comment2.target=java.lang.Comparable\ pivot(java.lang.Comparable[],\ int,\ int)
+comment2.text=\r\n\ Returns\ the\ desired\ pivot\ location\ in\ the\ array\r\n\ \r\n\ @param\ \ a\ \ the\ array\ to\ choose\ the\ pivot\ location\ in\r\n\ @param\ \ fst\ \ the\ beginning\ of\ valid\ indicies\r\n\ @param\ \ lst\ \ the\ end\ of\ valid\ indicies\r\n\ \r\n\ @return\ \ either\ first;\ median\ of\ first,\ middle\ and\ last;\ or\ a\ random\ element,\ depending\ on\ inheritance\r\n
+comment3.params=a\ fst\ lst\ c
+comment3.target=java.lang.Comparable\ pivot(java.lang.Comparable[],\ int,\ int,\ java.util.Comparator)
+comment3.text=\r\n\ Returns\ the\ desired\ pivot\ location\ in\ the\ array\r\n\ \r\n\ @param\ \ a\ \ the\ array\ to\ choose\ the\ pivot\ location\ in\r\n\ @param\ \ fst\ \ the\ beginning\ of\ valid\ indicies\r\n\ @param\ \ lst\ \ the\ end\ of\ valid\ indicies\r\n\ \r\n\ @return\ \ either\ first;\ median\ of\ first,\ middle\ and\ last;\ or\ a\ random\ element,\ depending\ on\ inheritance\r\n
+numComments=4

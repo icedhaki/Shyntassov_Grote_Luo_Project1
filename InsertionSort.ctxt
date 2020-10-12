@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=InsertionSort
+comment0.text=\r\n\ Sorts\ an\ array\ via\ insertion\ sort.\r\n\r\n\ @author\ Henry\ Grote\r\n\ @version\ 09/29/2020\r\n
+comment1.params=a
+comment1.target=void\ sort(int[])
+comment1.text=\r\n\ Sort\ an\ array\ of\ ints\ via\ inserertion\ sort.\r\n\r\n\ @param\ \ a\ \ an\ array\ of\ ints\r\n
+comment2.params=a
+comment2.target=void\ sort(java.lang.Comparable[])
+comment2.text=\r\n\ Sort\ an\ array\ of\ comparable\ objects\ via\ insertion\ sort.\ \r\n\r\n\ @param\ \ a\ \ an\ array\ of\ comparable\ objects\r\n
+comment3.params=a\ c
+comment3.target=void\ sort(java.lang.Comparable[],\ java.util.Comparator)
+comment3.text=\r\n\ Sort\ an\ array\ of\ objects\ using\ comparator\ via\ insertion\ sort.\ \r\n\r\n\ @param\ \ a\ \ an\ array\ of\ objects\r\n\ @param\ \ c\ \ a\ comparator\ object\r\n
+comment4.params=a\ nextPos
+comment4.target=void\ insert(int[],\ int)
+comment4.text=\r\n\ Helper\ method\ for\ insertion\ sorting\ an\ array\ of\ generics\r\n\ \r\n\ @param\ \ a\ \ the\ array\ sort\ is\ sorting\r\n\ @param\ \ nextPos\ \ position\ of\ the\ next\ element\ to\ be\ inserted\ in\ a.\r\n
+comment5.params=a\ nextPos
+comment5.target=void\ insert(java.lang.Comparable[],\ int)
+comment5.text=\r\n\ Helper\ method\ for\ insertion\ sorting\ an\ array\ of\ generics\r\n\ \r\n\ @param\ \ a\ \ the\ array\ sort\ is\ sorting\r\n\ @param\ \ nextPos\ \ position\ of\ the\ next\ element\ to\ be\ inserted\ in\ a.\r\n
+comment6.params=a\ nextPos\ c
+comment6.target=void\ insert(java.lang.Comparable[],\ int,\ java.util.Comparator)
+comment6.text=\r\n\ Helper\ method\ for\ insertion\ sorting\ an\ array\ of\ generics\r\n\ \r\n\ @param\ \ a\ \ the\ array\ sort\ is\ sorting\r\n\ @param\ \ nextPos\ \ position\ of\ the\ next\ element\ to\ be\ inserted\ in\ a.\r\n
+numComments=7

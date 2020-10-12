@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Compare
+comment0.text=\r\n\ Creates\ a\ comparator\r\n\r\n\ @author\ \ Henry\ Grote\r\n\ @version\ 10/11/2020\r\n
+comment1.params=a\ b
+comment1.target=int\ compare(java.lang.Comparable,\ java.lang.Comparable)
+comment1.text=\r\n\ Compares\ two\ objects\r\n\ @param\ Two\ objects\r\n\ @return\ the\ difference\ between\ the\ objects.\r\n
+numComments=2
